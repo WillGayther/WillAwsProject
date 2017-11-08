@@ -6,6 +6,6 @@
 <title>default.jsp page</title>
 </head>
 <body>
-	This is default.jsp
+	This is default.jsp (num 2)
 </body>
 </html>
